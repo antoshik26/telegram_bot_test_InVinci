@@ -1,0 +1,92 @@
+index,labels_name,labels_importance
+0,__background__,4
+1,person,28
+2,bicycle,9
+3,car,76
+4,motorcycle,11
+5,airplane,55
+6,bus,22
+7,train,0
+8,truck,64
+9,boat,39
+10,traffic light,31
+11,fire hydrant,46
+12,N/A,90
+13,stop sign,82
+14,parking meter,70
+15,bench,40
+16,bird,29
+17,cat,57
+18,dog,83
+19,horse,68
+20,sheep,19
+21,cow,10
+22,elephant,37
+23,bear,62
+24,zebra,88
+25,giraffe,24
+26,N/A,27
+27,backpack,65
+28,umbrella,38
+29,N/A,30
+30,N/A,87
+31,handbag,61
+32,tie,42
+33,suitcase,16
+34,frisbee,21
+35,skis,71
+36,snowboard,84
+37,sports ball,49
+38,kite,78
+39,baseball bat,35
+40,baseball glove,81
+41,skateboard,3
+42,surfboard,47
+43,tennis racket,12
+44,bottle,80
+45,N/A,18
+46,wine glass,58
+47,cup,2
+48,fork,20
+49,knife,52
+50,spoon,6
+51,bowl,45
+52,banana,17
+53,apple,75
+54,sandwich,32
+55,orange,74
+56,broccoli,66
+57,carrot,69
+58,hot dog,41
+59,pizza,63
+60,donut,43
+61,cake,85
+62,chair,7
+63,couch,50
+64,potted plant,33
+65,bed,34
+66,N/A,89
+67,dining table,14
+68,N/A,36
+69,N/A,8
+70,toilet,13
+71,N/A,44
+72,tv,51
+73,laptop,25
+74,mouse,59
+75,remote,5
+76,keyboard,53
+77,cell phone,56
+78,microwave,67
+79,oven,77
+80,toaster,15
+81,sink,26
+82,refrigerator,54
+83,N/A,23
+84,book,60
+85,clock,73
+86,vase,79
+87,scissors,86
+88,teddy bear,1
+89,hair drier,48
+90,toothbrush,72
